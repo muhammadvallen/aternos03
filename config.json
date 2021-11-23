@@ -1,0 +1,9 @@
+{
+	"ip":"muhammadvallen.aternos.me",
+	"port": "18802",
+	"name": "polo12",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register huhuhu ",
+	"login-cmd":"/login huhuhu "
+}
